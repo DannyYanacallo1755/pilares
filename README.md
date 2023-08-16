@@ -57,11 +57,25 @@ La **encapsulación** se refiere a la ocultación de los detalles internos de un
 controlada de su interfaz pública. Esto ayuda a prevenir el acceso no autorizado y garantiza la coherencia 
 y consistencia de los datos y métodos.
 
-Ejemplo
+**Ejemplo**
+
+* Clase Estudiante
+
 <p align="center">
-    <img src="Readme-Imagenes/paso16_12.png" width="560">
+    <img src="Imagenes/Encapsulacion/estudiante.png" width="560">
 </p>
 
+* Clase Main
+
+<p align="center">
+    <img src="Imagenes/Encapsulacion/main.png" width="560">
+</p>
+
+* RESULTADO
+
+<p align="center">
+    <img src="Imagenes/Encapsulacion/resultado.png" width="560">
+</p>
 
 
 ## **Herencia**
