@@ -156,5 +156,49 @@ facilita la flexibilidad y la reutilización del código.
 </p>
 
 
+En síntesis, los cuatro principios cardinales de la Programación Orientada a Objetos (POO) 
+representan los cimientos que guían la estructura y diseño de los sistemas de software. 
+Cada uno de estos pilares cumple una función esencial en la creación de código organizado, 
+reutilizable y de fácil mantenimiento. Aquí tienes un resumen de cada pilar:
 
-Estos cuatro pilares son los cimientos de la Programación Orientada a Objetos y proporcionan una base sólida para el diseño y desarrollo de sistemas de software más eficientes, mantenibles y escalables.
+
+* **Abstracción:**
+
+La abstracción otorga la habilidad de modelar objetos del mundo real por medio de clases y 
+objetos en el código, permitiéndonos identificar los aspectos fundamentales de atributos y 
+comportamientos. Mediante la abstracción, simplificamos la complejidad inherente de los 
+sistemas y enfocamos nuestra atención en lo verdaderamente relevante.
+
+
+* **Encapsulación:**
+
+La encapsulación permite esconder los detalles internos de un objeto, proporcionando una 
+interfaz controlada para interactuar con él. Al encapsular los detalles internos, 
+garantizamos la salvaguardia de los datos y aseguramos que los cambios en la implementación 
+no afecten otras partes del código.
+
+
+* **Herencia:**
+
+La herencia posibilita la creación de nuevas clases basadas en clases existentes, 
+facilitando la reutilización de atributos y comportamientos. Mediante la herencia, 
+establecemos jerarquías de clases que reflejan relaciones entre objetos y promueven 
+una estructura más ordenada.
+
+
+* **Polimorfismo:**
+
+El polimorfismo nos permite tratar objetos de diferentes clases de manera uniforme 
+a través de una interfaz común. Esto proporciona flexibilidad, permitiendo que diversas 
+clases implementen la misma interfaz de manera específica. Esta característica es 
+especialmente valiosa para la extensión y adaptación efectiva del código.
+
+
+
+En conjunto, estos pilares conforman el núcleo de la POO y fomentan la creación de sistemas 
+más adaptables, escalables y comprensibles. Al aplicar estos conceptos de manera adecuada, 
+diseñamos software que refleja con mayor precisión las relaciones y comportamientos del mundo real, 
+lo que se traduce en un proceso de desarrollo más eficaz y eficiente.
+
+Estos cuatro pilares son los cimientos de la Programación Orientada a Objetos y proporcionan una 
+base sólida para el diseño y desarrollo de sistemas de software más eficientes, mantenibles y escalables.
