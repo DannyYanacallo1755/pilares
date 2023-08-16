@@ -194,7 +194,7 @@ clases implementen la misma interfaz de manera específica. Esta característica
 especialmente valiosa para la extensión y adaptación efectiva del código.
 
 
-
+-----------------------------------------------------------------------------------------
 En conjunto, estos pilares conforman el núcleo de la POO y fomentan la creación de sistemas 
 más adaptables, escalables y comprensibles. Al aplicar estos conceptos de manera adecuada, 
 diseñamos software que refleja con mayor precisión las relaciones y comportamientos del mundo real, 
