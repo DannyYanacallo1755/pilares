@@ -44,6 +44,12 @@ encapsularlos en una estructura coherente.
     <img src="Imagenes/Abstraccion/main.png" width="560">
 </p>
 
+* RESULTADO
+
+<p align="center">
+    <img src="Imagenes/Abstraccion/mostrar.png" width="560">
+</p>
+
 
 ## **Encapsulación**
 
