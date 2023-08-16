@@ -84,9 +84,36 @@ La **herencia** permite la creación de nuevas clases basadas en clases existent
 atributos y comportamientos. Esto fomenta la jerarquía y la organización de clases en una estructura 
 más general a más específica.
 
+**Ejemplo**
+
+* Clase Empleado
 
 <p align="center">
-    <img src="Readme-Imagenes/paso16_12.png" width="560">
+    <img src="Imagenes/Herencia/Empleado.png" width="560">
+</p>
+
+* Clase Gerente
+
+<p align="center">
+    <img src="Imagenes/Herencia/Gerente.png" width="560">
+</p>
+
+* Clase Desarrollador
+
+<p align="center">
+    <img src="Imagenes/Herencia/Desarrollador.png" width="560">
+</p>
+
+* Clase Main
+
+<p align="center">
+    <img src="Imagenes/Herencia/main.png" width="560">
+</p>
+
+* RESULTADO
+
+<p align="center">
+    <img src="Imagenes/Herencia/resultado.png" width="560">
 </p>
 
 
