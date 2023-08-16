@@ -23,25 +23,25 @@ encapsularlos en una estructura coherente.
 * Clase Vehiculo
 
 <p align="center">
-    <img src="Imagenes/Abstraccion/vehiculo.png.png" width="560">
+    <img src="Imagenes/Abstraccion/vehiculo.png" width="560">
 </p>
 
 * Clase Carro
 
 <p align="center">
-    <img src="Imagenes/Abstraccion/carro.png.png" width="560">
+    <img src="Imagenes/Abstraccion/carro.png" width="560">
 </p>
 
 * Clase Motocicleta
 
 <p align="center">
-    <img src="Imagenes/Abstraccion/moto.png.png" width="560">
+    <img src="Imagenes/Abstraccion/moto.png" width="560">
 </p>
 
 * Clase Main
 
 <p align="center">
-    <img src="Imagenes/Abstraccion/main.png.png" width="560">
+    <img src="Imagenes/Abstraccion/main.png" width="560">
 </p>
 
 
