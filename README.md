@@ -123,9 +123,36 @@ El **polimorfismo** permite que objetos de diferentes clases se comporten de man
 invocar métodos con el mismo nombre, pero con implementaciones específicas en cada clase. Esto 
 facilita la flexibilidad y la reutilización del código.
 
+**Ejemplo**
+
+* Clase Animal
 
 <p align="center">
-    <img src="Readme-Imagenes/paso16_12.png" width="560">
+    <img src="Imagenes/Polimorfismo/animal.png" width="560">
+</p>
+
+* Clase Gato
+
+<p align="center">
+    <img src="Imagenes/Polimorfismo/gato.png" width="560">
+</p>
+
+* Clase Perro
+
+<p align="center">
+    <img src="Imagenes/Polimorfismo/perro.png" width="560">
+</p>
+
+* Clase Main
+
+<p align="center">
+    <img src="Imagenes/Polimorfismo/main.png" width="560">
+</p>
+
+* RESULTADO
+
+<p align="center">
+    <img src="Imagenes/Polimorfismo/resultado.png" width="560">
 </p>
 
 
