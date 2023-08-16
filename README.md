@@ -163,7 +163,6 @@ reutilizable y de fácil mantenimiento. Aquí tienes un resumen de cada pilar:
 
 
 * **Abstracción:**
-
 La abstracción otorga la habilidad de modelar objetos del mundo real por medio de clases y 
 objetos en el código, permitiéndonos identificar los aspectos fundamentales de atributos y 
 comportamientos. Mediante la abstracción, simplificamos la complejidad inherente de los 
@@ -171,7 +170,6 @@ sistemas y enfocamos nuestra atención en lo verdaderamente relevante.
 
 
 * **Encapsulación:**
-
 La encapsulación permite esconder los detalles internos de un objeto, proporcionando una 
 interfaz controlada para interactuar con él. Al encapsular los detalles internos, 
 garantizamos la salvaguardia de los datos y aseguramos que los cambios en la implementación 
@@ -179,7 +177,6 @@ no afecten otras partes del código.
 
 
 * **Herencia:**
-
 La herencia posibilita la creación de nuevas clases basadas en clases existentes, 
 facilitando la reutilización de atributos y comportamientos. Mediante la herencia, 
 establecemos jerarquías de clases que reflejan relaciones entre objetos y promueven 
@@ -187,7 +184,6 @@ una estructura más ordenada.
 
 
 * **Polimorfismo:**
-
 El polimorfismo nos permite tratar objetos de diferentes clases de manera uniforme 
 a través de una interfaz común. Esto proporciona flexibilidad, permitiendo que diversas 
 clases implementen la misma interfaz de manera específica. Esta característica es 
